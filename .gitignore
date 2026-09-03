@@ -1,0 +1,30 @@
+# Fichiers générés par Gradle (à n'importe quel niveau)
+.gradle/
+build/
+**/build/
+
+# Configuration locale (chemins spécifiques à la machine — NE PAS versionner)
+local.properties
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+.kotlin/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Résultats de build / signatures
+*.apk
+*.aab
+*.ap_
+*.aar
+*.dex
+*.class
+output.json
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
